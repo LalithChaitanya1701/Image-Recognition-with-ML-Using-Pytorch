@@ -80,6 +80,7 @@ If executed inside a Google Colab notebook, `main.py` automatically opens an upl
 
 ```text
 Loading pre-trained ResNet-101 model...
+<img width="386" height="264" alt="image" src="https://github.com/user-attachments/assets/f34e0c0f-e24d-4d44-b53f-64b274ed24e1" />
 
 Processing image: sample.jpg
 Running image classification...
